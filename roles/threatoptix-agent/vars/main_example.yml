@@ -1,0 +1,6 @@
+api_url: api.orcasecurity.io/api/threatoptix/download?agent_type=vm
+api_key: <obtain from console>
+to_host: <obtain from console>
+to_port: 443
+to_id: <obtain from console>
+to_insecure: "true"
